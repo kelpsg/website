@@ -48,6 +48,9 @@ body {
 .store-text {
   margin: 16px;
   text-align: center;
+  border-bottom: 2px solid #ff6000;
+  padding: 0 4px;
+  border-radius: 4px;
 }
 .store-subtext {
   background-color: #ffe7d8;
